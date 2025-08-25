@@ -1,22 +1,13 @@
-👋 Hi, I'm @Linus-sys46
+Hi, I'm Linus — a software developer with a strong interest in mobile application development and cybersecurity.
 
-👀 I'm a passionate software developer with a keen interest in crafting elegant and efficient code.
-I'm fascinated by the power of technology to solve real-world problems and make a positive impact on society.
+🔹 I enjoy building practical, user-friendly apps and exploring how systems work under the hood.
+🔹 Passionate about securing systems and continuously learning new technologies.
+🔹 Open to collaboration and exciting opportunities where I can contribute and grow.
 
-🌱 I'm currently expanding my knowledge and skills by exploring various programming languages, frameworks, and development methodologies. 
-I'm always eager to learn new techniques and best practices to enhance my ability to build innovative and scalable software solutions.
+📫 Let’s connect:
 
-💞️ I'm actively seeking opportunities to collaborate with fellow developers and contribute to meaningful projects.
-I'm particularly interested in working on projects that involve:
+GitHub: @Linus-sys46
 
-* Developing user-friendly and intuitive applications
-* Designing and implementing robust and scalable software architectures
-* Contributing to open-source projects and sharing knowledge with the community
+LinkedIn: linus-korir
 
-📫 Feel free to reach out to me if you'd like to connect or discuss potential collaboration opportunities. You can find me on:
-
-* GitHub: [@Linus-sys46](https://github.com/Linus-sys46)
-* LinkedIn: [ www.linkedin.com/in/linus-korir-976838240](https://www.linkedin.com/in/linus-korir-976838240/)
-* Email: linuskorir20@gmail.com
-
-I'm excited to connect with like-minded individuals and contribute to the ever-evolving world of software development. Let's build something amazing together!
+Email: linuskorir20@gmail.com
