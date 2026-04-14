@@ -1,8 +1,4 @@
-Hi, I'm Linus — a software developer with a strong interest in mobile application development and cybersecurity.
-
-🔹 I enjoy building practical, user-friendly apps and exploring how systems work under the hood.
-🔹 Passionate about securing systems and continuously learning new technologies.
-🔹 Open to collaboration and exciting opportunities where I can contribute and grow.
+I am an aspiring cybersecurity analyst with a strong foundation in IT and a growing focus on threat detection, system security, and risk management. I value integrity, continuous learning, and attention to detail, and I am passionate about protecting systems and data from evolving cyber threats. I aim to support organizations by identifying vulnerabilities, strengthening defenses, and helping maintain the confidentiality, integrity, and availability of critical assets.
 
 📫 Let’s connect:
 
